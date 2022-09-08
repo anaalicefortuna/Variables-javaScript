@@ -1,1 +1,6 @@
-# Variables-javaScript
+Nome: (String)
+Sobrenome (String)
+Peso (Number)
+Altura (Number)
+DataDeInternacao (Number)
+Diabético (String)
